@@ -1,5 +1,4 @@
 {
   "ignore" : ["public/*"],
   "verbose" : true
-
 }
